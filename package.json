@@ -1,0 +1,22 @@
+{
+  "name": "async-plus",
+  "version": "1.0.0",
+  "description": "Queue Based Promise All for Better Distribution",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkashSky1994/async-plus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkashSky1994/async-plus/issues"
+  },
+  "homepage": "https://github.com/AkashSky1994/async-plus#readme"
+}
