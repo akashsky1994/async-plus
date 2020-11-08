@@ -6,8 +6,10 @@ npm install async-plus
 
 ## Code Examples
 Examples:
-`const {asyncQueue} = require("async-plus");`
-`const responses = await asyncQueue(5,[Array of Promises]);`
+```
+const {asyncQueue} = require("async-plus");
+const responses = await asyncQueue(5,[Array of Promises]);
+```
 
 ## Features
 List of features ready and TODOs for future development
